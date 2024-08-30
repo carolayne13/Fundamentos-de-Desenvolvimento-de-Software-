@@ -1,0 +1,1 @@
+console.log("Olá, Mundo!");/* o console.log é uma função e os que estão dentro do () são parametros */
